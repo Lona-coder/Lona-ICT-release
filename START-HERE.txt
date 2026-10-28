@@ -1,0 +1,7 @@
+LONA ICT HUB — REGRESSION TEST REPAIRED v4
+
+1. Extract this ZIP completely.
+2. Open index.html.
+3. Scroll to the blue ICT Rescue section.
+4. Confirm the device visual reads: Problem → Diagnose → Solve → Learn.
+5. Continue functional regression testing only after visual confirmation.
